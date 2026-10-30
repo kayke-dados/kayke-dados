@@ -19,12 +19,12 @@
 
 Sou **Kayke**, estudando para me tornar **Analista de Dados**.
 
-Ainda estou no começo da jornada — aprendendo **Python**, **Git** e **Excel** do jeito mais honesto possível: um passo de cada vez, praticando todos os dias e errando em voz alta. Este perfil é o meu diário de bordo, não uma vitrine.
+Ainda estou no começo da jornada — aprendendo **Python** do jeito mais honesto possível: um passo de cada vez, praticando todos os dias e errando em voz alta. Este perfil é o meu diário de bordo, não uma vitrine.
 
 O que você encontra por aqui hoje:
 
 - Estudos registrados, repositórios de prática e testes que não dão certo (e os que dão)
-- Projetos **a caminho** — fechados com calma antes de publicados
+- Projeto em Python **a caminho** — fechado com calma antes de publicado
 - Evolução lenta, mas constante
 
 > Consistência > intensidade.
@@ -36,18 +36,10 @@ O que você encontra por aqui hoje:
 <a href="https://docs.python.org/3/" target="_blank">
   <img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=a78bfa" alt="Python"/>
 </a>
-&nbsp;
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=a78bfa" alt="Git"/>
-</a>
-&nbsp;
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
-  <img src="https://img.shields.io/badge/Excel-0d0d0d?style=flat-square&logo=microsoftexcel&logoColor=a78bfa" alt="Excel"/>
-</a>
 
 </div>
 
-*Tudo ainda em nível iniciante — e sem vergonha disso. O período de aprendizado conta tanto quanto os diplomas.*
+*Uma linguagem de cada vez, por enquanto: Python, do zero e sem pressa.
 
 ## projetos
 
@@ -61,7 +53,6 @@ O que você encontra por aqui hoje:
 |:---|:---|:---:|
 | portfólio de dados | a definir | <img src="https://img.shields.io/badge/planejamento-0d0d0d?style=flat-square&logo=clock&logoColor=a78bfa" alt="planejamento"/> |
 | projeto em Python | análise de dados | <img src="https://img.shields.io/badge/em%20breve-1a1526?style=flat-square&logo=hourglass&logoColor=8b5cf6" alt="em breve"/> |
-| dashboard | indicadores simples | <img src="https://img.shields.io/badge/em%20breve-1a1526?style=flat-square&logo=hourglass&logoColor=8b5cf6" alt="em breve"/> |
 
 *O primeiro resultado real entra aqui, com link — sem card de vitrine.*
 

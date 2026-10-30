@@ -15,26 +15,50 @@
 
 </div>
 
+---
+
 ## sobre mim
 
 Estudando para me tornar **Analista de Dados** — **Python** na mão, base de T.I. e o pacote Office na bagagem, um dia por vez. Este perfil é o meu diário de bordo, não uma vitrine.
 
 A base que já carrego: **noções básicas de T.I.** e o **pacote Office** completo em nível iniciante — planilhas, documentos e apresentações fazem parte do meu dia a dia.
 
-O aprendizado do momento: **Python**, do zero — sem atalhos, um passo de cada vez. A trilha completa (85 exercícios resolvidos, organizados em 7 capítulos) está no [python-journey](https://github.com/kayke-dados/Python-Journey).
-
 O que você encontra por aqui hoje:
 
 - Estudos registrados, repositórios de prática e testes que não dão certo (e os que dão)
-- Projetos **a caminho** — fechados com calma antes de publicados
+- Projetos **no ar e a caminho** — fechados com calma antes de publicados
 - Evolução lenta, mas constante
 
 > Consistência > intensidade.
+
+---
+
+## destaque
+
+<div align="center">
+
+**[python-journey](https://github.com/kayke-dados/Python-Journey)**
+
+*portfólio do aprendizado de Python — do primeiro `print()` às funções próprias*
+
+<img src="https://img.shields.io/badge/85%20exerc%C3%ADcios-resolvidos-0d0d0d?style=flat-square" alt="exercicios"/>
+&nbsp;
+<img src="https://img.shields.io/badge/7%20cap%C3%ADtulos-de%20progress%C3%A3o-0d0d0d?style=flat-square" alt="capitulos"/>
+&nbsp;
+<img src="https://img.shields.io/badge/no%20ar-a78bfa?style=flat-square&logo=dot&logoColor=0d0d0d" alt="no ar"/>
+
+</div>
+
+> Cada pasta é uma etapa da trilha; cada arquivo, um conceito explicado. Base: curso do [Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
+
+---
 
 ## diário
 
 - `2026-10-30` — perfil no ar; foco: python, do zero.
 - `2026-10-30` — primeiro resultado real: **python-journey** no ar (85 exercícios em 7 capítulos de progressão).
+
+---
 
 ## tecnologias
 
@@ -54,22 +78,20 @@ O que você encontra por aqui hoje:
 
 *O foco do momento é Python — Office e a base de T.I. sustentam o caminho, no ritmo de iniciante.*
 
+---
+
 ## projetos
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/EM%E3%80%80CONSTRU%C3%87%C3%83O-8b5cf6?style=flat-square&logo=clock&logoColor=0d0d0d" alt="status em construção"/>
-
-</div>
 
 | projeto | foco | status |
 |:---|:---|:---:|
-| [python-journey](https://github.com/kayke-dados/Python-Journey) | portfólio do aprendizado de python — do primeiro `print()` às funções próprias | <img src="https://img.shields.io/badge/no%20ar-a78bfa?style=flat-square&logo=dot&logoColor=0d0d0d" alt="no ar"/> |
+| [python-journey](https://github.com/kayke-dados/Python-Journey) | portfólio completo do aprendizado — 85 exercícios em 7 capítulos | <img src="https://img.shields.io/badge/no%20ar-a78bfa?style=flat-square&logo=dot&logoColor=0d0d0d" alt="no ar"/> |
 | portfólio de dados | a definir | <img src="https://img.shields.io/badge/planejamento-0d0d0d?style=flat-square&logo=clock&logoColor=a78bfa" alt="planejamento"/> |
 | projeto em Python | análise de dados | <img src="https://img.shields.io/badge/em%20breve-1a1526?style=flat-square&logo=hourglass&logoColor=8b5cf6" alt="em breve"/> |
 | painel de indicadores | planilha | <img src="https://img.shields.io/badge/planejamento-0d0d0d?style=flat-square&logo=clock&logoColor=a78bfa" alt="planejamento"/> |
 
-*O primeiro resultado real entra aqui, com link — sem card de vitrine.*
+*O primeiro resultado real já está no destaque — os próximos entram aqui, com link, sem card de vitrine.*
+
+---
 
 ## github stats
 
@@ -87,6 +109,8 @@ O que você encontra por aqui hoje:
 
 </div>
 
+---
+
 ## snake contribution
 
 <div align="center">
@@ -98,6 +122,10 @@ O que você encontra por aqui hoje:
 </picture>
 
 </div>
+
+*a cobra come minhas contribuições reais e cresce conforme os commits — workflow próprio, atualizado semanalmente.*
+
+---
 
 ## vamos conversar
 

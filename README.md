@@ -21,7 +21,7 @@ Estudando para me tornar **Analista de Dados** — **Python** na mão, base de T
 
 A base que já carrego: **noções básicas de T.I.** e o **pacote Office** completo em nível iniciante — planilhas, documentos e apresentações fazem parte do meu dia a dia.
 
-O aprendizado do momento: **Python**, do zero — sem atalhos, um passo de cada vez.
+O aprendizado do momento: **Python**, do zero — sem atalhos, um passo de cada vez. A trilha completa (85 exercícios resolvidos, organizados em 7 capítulos) está no [python-journey](https://github.com/kayke-dados/Python-Journey).
 
 O que você encontra por aqui hoje:
 
@@ -34,6 +34,7 @@ O que você encontra por aqui hoje:
 ## diário
 
 - `2026-10-30` — perfil no ar; foco: python, do zero.
+- `2026-10-30` — primeiro resultado real: **python-journey** no ar (85 exercícios em 7 capítulos de progressão).
 
 ## tecnologias
 
@@ -63,6 +64,7 @@ O que você encontra por aqui hoje:
 
 | projeto | foco | status |
 |:---|:---|:---:|
+| [python-journey](https://github.com/kayke-dados/Python-Journey) | portfólio do aprendizado de python — do primeiro `print()` às funções próprias | <img src="https://img.shields.io/badge/no%20ar-a78bfa?style=flat-square&logo=dot&logoColor=0d0d0d" alt="no ar"/> |
 | portfólio de dados | a definir | <img src="https://img.shields.io/badge/planejamento-0d0d0d?style=flat-square&logo=clock&logoColor=a78bfa" alt="planejamento"/> |
 | projeto em Python | análise de dados | <img src="https://img.shields.io/badge/em%20breve-1a1526?style=flat-square&logo=hourglass&logoColor=8b5cf6" alt="em breve"/> |
 | painel de indicadores | planilha | <img src="https://img.shields.io/badge/planejamento-0d0d0d?style=flat-square&logo=clock&logoColor=a78bfa" alt="planejamento"/> |

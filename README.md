@@ -116,36 +116,11 @@ O que você encontra por aqui hoje:
 </div>
 
 <!-- ============================================================
-     SNAKE: como ativar (faça 1x, o gráfico atualiza sozinho)
+     SNAKE: como ativar
      ------------------------------------------------------------
-     1) No repositório kayke-dados/kayke-dados, crie o caminho
-        .github/workflows/snake.yml com o conteúdo abaixo.
-     2) Rode o workflow manualmente uma vez (aba Actions).
-     3) As imagens surgem na branch "output", que o README lê.
-
-        name: snake
-        on:
-          schedule:
-            - cron: "0 0 * * 0"
-          workflow_dispatch:
-          push:
-            branches: [main]
-        permissions:
-          contents: write
-        jobs:
-          generate:
-            runs-on: ubuntu-latest
-            steps:
-              - uses: Platane/snk/svg-only@v3
-                with:
-                  github_user_name: kayke-dados
-                  outputs: |
-                    dist/github-snake.svg
-                    dist/github-snake-dark.svg?palette=github-dark
-              - uses: crazy-max/ghaction-github-pages@v4
-                with:
-                  target_branch: output
-                  build_dir: dist
-                env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     O workflow já entra pronto no repo (.github/workflows/snake.yml).
+     1) Publicado o repo, vá em Actions e rode "snake" uma vez
+        (Run workflow), sem esperar o cron semanal.
+     2) A branch "output" nasce com os dois SVGs,
+        que o <picture> acima passa a carregar sozinho.
      ============================================================ -->

@@ -1,23 +1,21 @@
-<!-- Snake: ative o "snake game" seguindo o comentário no final deste arquivo -->
-
 <div align="center">
 
 <img
   width="100%"
   src="https://raw.githubusercontent.com/kayke-dados/kayke-dados/main/banner.svg"
-  alt="banner Kayke — analista de dados, em construção"
+  alt="Kayke — analista de dados em formação"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=70&lines=Analista+de+Dados+%7C+em+forma%C3%A7%C3%A3o;procurando+padr%C3%B5es+nos+dados;um+passo+de+cada+vez;85+exerc%C3%ADcios+escritos+no+python-journey"
-  alt="typing animation"
+  src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=20&pause=1400&color=9B8AC4&background=141414&center=true&vCenter=true&width=640&height=60&lines=analista+de+dados+%7C+em+forma%C3%A7%C3%A3o;python+do+zero%2C+sem+atalhos;85+de+86+exerc%C3%ADcios+no+python-journey;consist%C3%AAncia+%3E+intensidade"
+  alt="analista de dados em formação · python do zero · 85 de 86 exercícios · consistência > intensidade"
 />
 
 </div>
 
 <div align="center">
 
-<a href="#sobre-mim">sobre mim</a> · <a href="#destaque">destaque</a> · <a href="#diário">diário</a> · <a href="#tecnologias">tecnologias</a> · <a href="#projetos">projetos</a> · <a href="#github-stats">stats</a> · <a href="#snake-contribution">snake</a> · <a href="#vamos-conversar">conversar</a>
+<a href="#sobre-mim">sobre mim</a> · <a href="#destaque">destaque</a> · <a href="#cartão-digital">cartão digital</a> · <a href="#diário">diário</a> · <a href="#tecnologias">tecnologias</a> · <a href="#projetos">projetos</a> · <a href="#github-stats">stats</a> · <a href="#snake-contribution">snake</a> · <a href="#vamos-conversar">conversar</a>
 
 </div>
 
@@ -25,17 +23,9 @@
 
 ## sobre mim
 
-Estudando para me tornar **Analista de Dados** — **Python** na mão, base de T.I. e o pacote Office na bagagem, um dia por vez. Este perfil é o meu diário de bordo, não uma vitrine.
+Estudando para me tornar **Analista de Dados** — **Python** na mão, base de TI e o pacote Office na bagagem, um dia por vez. Este perfil é um diário de bordo, não uma vitrine.
 
-A base que já carrego: **noções básicas de T.I.** e o **pacote Office** completo em nível iniciante — planilhas, documentos e apresentações fazem parte do meu dia a dia.
-
-O aprendizado do momento: **Python**, do zero — sem atalhos. A trilha completa está no [python-journey](https://github.com/kayke-dados/Python-Journey).
-
-O que você encontra por aqui hoje:
-
-- Estudos registrados, repositórios de prática e testes que não dão certo (e os que dão)
-- Projetos **no ar e a caminho** — fechados com calma antes de publicados
-- Evolução lenta, mas constante
+A base que já carrego: **noções básicas de TI** e o **pacote Office** em nível iniciante — planilhas, documentos e apresentações fazem parte do meu dia a dia. O aprendizado do momento é **Python**, do zero, sem atalhos; a trilha completa está no [python-journey](https://github.com/kayke-dados/Python-Journey).
 
 > Consistência > intensidade.
 
@@ -47,25 +37,25 @@ O que você encontra por aqui hoje:
 
 **[python-journey](https://github.com/kayke-dados/Python-Journey)**
 
-*portfólio do aprendizado de Python — do primeiro `print()` às funções próprias*
+*do primeiro `print()` às funções próprias — cada pasta é uma etapa, cada arquivo um conceito explicado*
 
-<img src="https://img.shields.io/github/last-commit/kayke-dados/Python-Journey?style=flat-square&label=%C3%BAltimo%20commit&cacheSeconds=300" alt="último exercício publicado"/>
+<img src="https://img.shields.io/github/last-commit/kayke-dados/Python-Journey?style=flat-square&label=%C3%BAltimo%20commit&labelColor=141414&color=202020&cacheSeconds=300" alt="último commit no python-journey"/>
 &nbsp;
-<img src="https://img.shields.io/github/commit-activity/w/kayke-dados/Python-Journey?style=flat-square&cacheSeconds=300&label=commits%20na%20semana" alt="commits no python-journey"/>
+<img src="https://img.shields.io/github/commit-activity/w/kayke-dados/Python-Journey?style=flat-square&labelColor=141414&color=202020&cacheSeconds=300&label=commits%20na%20semana" alt="commits na semana"/>
 
 </div>
 
 | capítulo | estudos | estado |
 |:---|:---:|:---|
-| 01 — fundamentos | 12 | concluída |
-| 02 — condições | 16 | concluída |
-| 03 — laços e lógica | 25 | concluída |
-| 04 — listas e tuplas | 18 | concluída |
-| 05 — dicionários | 5 | concluída |
-| 06 — funções | 10 | `ex105` pendente |
+| 01 — fundamentos | 12 | concluído |
+| 02 — condições | 16 | concluído |
+| 03 — laços e lógica | 25 | concluído |
+| 04 — listas e tuplas | 18 | concluído |
+| 05 — dicionários | 5 | concluído |
+| 06 — funções | 9/10 | `ex105` pendente |
 | 07 — próximos | — | espaço reservado |
 
-> Cada pasta é uma etapa da trilha; cada arquivo, um conceito explicado. Base: curso do [Curso em Vídeo](https://www.youtube.com/@CursoemVideo). 
+**85 de 86 exercícios**: 5 capítulos concluídos, o 06 em 9/10 e o 07 reservado. Base: [Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
 
 <div align="center">
 
@@ -75,10 +65,29 @@ O que você encontra por aqui hoje:
 
 ---
 
+## cartão digital
+
+<div align="center">
+
+<a href="https://kayke-dados.github.io/kayke-hub/">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/kayke-dados/kayke-hub/main/assets/readme/banner.svg"
+    alt="Kayke Hub — cartão digital de Python e Dados"
+  />
+</a>
+
+<a href="https://kayke-dados.github.io/kayke-hub/"><strong>kayke-hub</strong></a> — cartão digital bilíngue, com QR Code, projetos e a jornada de estudos. Estático, acessível e no ar.
+
+</div>
+
+---
+
 ## diário
 
+- `2026-10-30` — **kayke-hub** reformulado (v4, editorial ametista) e no ar.
 - `2026-10-30` — perfil no ar; foco: python, do zero.
-- `2026-10-30` — primeiro resultado real: **python-journey** no ar (85 exercícios em 7 capítulos de progressão).
+- `2026-10-30` — primeiro resultado real: **python-journey** no ar, 85 de 86 exercícios.
 
 ---
 
@@ -88,7 +97,7 @@ O que você encontra por aqui hoje:
 
 <img
   src="https://skillicons.dev/icons?i=py,windows&theme=dark"
-  alt="Python (em aprendizado) e base de T.I. em Windows"
+  alt="Python (em aprendizado) e Windows"
 />
 &nbsp;
 <img
@@ -98,7 +107,7 @@ O que você encontra por aqui hoje:
 
 </div>
 
-*O foco do momento é Python — Office e a base de T.I. sustentam o caminho, no ritmo de iniciante.*
+*Python é o foco; Windows e Office sustentam o caminho, no ritmo de iniciante.*
 
 ---
 
@@ -106,12 +115,12 @@ O que você encontra por aqui hoje:
 
 | projeto | foco | status |
 |:---|:---|:---:|
-| [python-journey](https://github.com/kayke-dados/Python-Journey) | portfólio completo do aprendizado — 85 exercícios em 7 capítulos | <img src="https://img.shields.io/badge/no%20ar-a78bfa?style=flat-square&logo=dot&logoColor=0d0d0d" alt="no ar"/> |
-| portfólio de dados | a definir | <img src="https://img.shields.io/badge/planejamento-0d0d0d?style=flat-square&logo=clock&logoColor=a78bfa" alt="planejamento"/> |
-| projeto em Python | análise de dados | <img src="https://img.shields.io/badge/em%20breve-1a1526?style=flat-square&logo=hourglass&logoColor=8b5cf6" alt="em breve"/> |
-| painel de indicadores | planilha | <img src="https://img.shields.io/badge/planejamento-0d0d0d?style=flat-square&logo=clock&logoColor=a78bfa" alt="planejamento"/> |
+| [python-journey](https://github.com/kayke-dados/Python-Journey) | aprendizado completo de Python — 85 de 86 exercícios | <img src="https://img.shields.io/badge/no%20ar-141414?style=flat-square&logo=statuspage&logoColor=9B8AC4" alt="no ar"/> |
+| [kayke-hub](https://kayke-dados.github.io/kayke-hub/) | cartão digital e portfólio — bilíngue, QR, estático | <img src="https://img.shields.io/badge/no%20ar-141414?style=flat-square&logo=statuspage&logoColor=9B8AC4" alt="no ar"/> |
+| portfólio de dados | a definir | <img src="https://img.shields.io/badge/planejamento-202020?style=flat-square&logo=clock&logoColor=A6A29C" alt="planejamento"/> |
+| painel de indicadores | planilha | <img src="https://img.shields.io/badge/planejamento-202020?style=flat-square&logo=clock&logoColor=A6A29C" alt="planejamento"/> |
 
-*O primeiro resultado real já está no destaque — os próximos entram aqui, com link, sem card de vitrine.*
+*O que ainda não existe aparece como planejamento — sem projeto inventado para preencher vitrine.*
 
 ---
 
@@ -119,15 +128,11 @@ O que você encontra por aqui hoje:
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=kayke-dados&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=8b5cf6&text_color=e0d7ff&border_radius=10&custom_title=Kayke%20%E2%80%A2%20GitHub%20Stats&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs" alt="GitHub stats"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=kayke-dados&show_icons=true&hide_border=true&bg_color=141414&title_color=9B8AC4&icon_color=B0A0D0&text_color=F5F3EF&border_radius=8&custom_title=Kayke%20%E2%80%A2%20GitHub%20Stats&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs" alt="GitHub stats"/>
 <!-- depois do primeiro star/issue/PR, remova o parâmetro hide= da linha acima -->
-<img width="49%" src="https://streak-stats.demolab.com?user=kayke-dados&hide_border=true&background=0d0d0d&borderRadius=10&ring=a78bfa&fire=8b5cf6&currStreakNum=e0d7ff&sideNums=e0d7ff&currStreakLabel=a78bfa&sideLabels=e0d7ff&dates=7b6f99" alt="GitHub streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=kayke-dados&hide_border=true&background=141414&borderRadius=8&ring=9B8AC4&fire=B0A0D0&currStreakNum=F5F3EF&sideNums=F5F3EF&currStreakLabel=9B8AC4&sideLabels=A6A29C&dates=A6A29C" alt="GitHub streak"/>
 
-<img width="100%" src="https://github-act-graph.rodriaum.com/graph?username=kayke-dados&bg_color=0d0d0d&color=e0d7ff&line=8b5cf6&point=a78bfa&area=true&area_color=8b5cf6&hide_border=true&border_radius=10&custom_title=Contribui%C3%A7%C3%B5es%20%E2%80%94%20%C3%BAltimos%2031%20dias" alt="Activity graph"/>
-
-<img width="100%" src="https://github-trophies.devomb.com/?username=kayke-dados&theme=discord&no-frame=true&column=4&margin-w=5" alt="GitHub trophies"/>
-
-<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kayke-dados&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e0d7ff&border_radius=10&custom_title=Linguagens%20mais%20usadas" alt="Top languages"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kayke-dados&layout=compact&hide_border=true&bg_color=141414&title_color=9B8AC4&text_color=F5F3EF&border_radius=8&custom_title=Linguagens%20mais%20usadas" alt="Top languages"/>
 
 </div>
 
@@ -145,7 +150,7 @@ O que você encontra por aqui hoje:
 
 </div>
 
-*a cobra come minhas contribuições reais e cresce conforme os commits — workflow próprio, atualizado semanalmente.*
+*a cobra come as contribuições reais e cresce com os commits — workflow próprio, atualizado semanalmente.*
 
 ---
 
@@ -154,15 +159,15 @@ O que você encontra por aqui hoje:
 <div align="center">
 
 <a href="https://instagram.com/kayke.dados" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=flat-square&logo=instagram&logoColor=a78bfa" alt="Instagram @kayke.dados"/>
+  <img src="https://img.shields.io/badge/Instagram-141414?style=flat-square&logo=instagram&logoColor=9B8AC4" alt="Instagram @kayke.dados"/>
 </a>
 &nbsp;
 <a href="https://github.com/kayke-dados" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=a78bfa" alt="GitHub kayke-dados"/>
+  <img src="https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=9B8AC4" alt="GitHub kayke-dados"/>
 </a>
 &nbsp;
 <a href="mailto:kayke0812@proton.me" target="_blank">
-  <img src="https://img.shields.io/badge/kayke0812@proton.me-0d0d0d?style=flat-square&logo=protonmail&logoColor=a78bfa" alt="Email kayke0812@proton.me"/>
+  <img src="https://img.shields.io/badge/kayke0812@proton.me-141414?style=flat-square&logo=protonmail&logoColor=9B8AC4" alt="Email kayke0812@proton.me"/>
 </a>
 
 </div>
@@ -171,8 +176,8 @@ O que você encontra por aqui hoje:
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:a78bfa&height=140&section=footer&text=feito%20no%20ritmo%20de%20quem%20est%C3%A1%20aprendendo&fontSize=16&fontColor=0d0d0d&fontAlignY=62&animation=fadeIn"
-  alt="footer"
+  src="https://raw.githubusercontent.com/kayke-dados/kayke-dados/main/footer.svg"
+  alt="consistência > intensidade — kayke-dados.github.io/kayke-hub"
 />
 
 </div>

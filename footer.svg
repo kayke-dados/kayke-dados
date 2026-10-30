@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Consistência acima de intensidade">
+  <rect width="1200" height="120" fill="#141414"/>
+  <line x1="64" y1="1" x2="1136" y2="1" stroke="#343434"/>
+  <text x="600" y="52" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="4" fill="#A6A29C">CONSISTÊNCIA &gt; INTENSIDADE</text>
+  <text x="600" y="80" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1" fill="#9B8AC4">kayke-dados.github.io/kayke-hub</text>
+</svg>

@@ -77,7 +77,7 @@ Uso o **pacote Office** em nível iniciante — planilhas, documentos e apresent
   />
 </a>
 
-<a href="https://kayke-dados.github.io/kayke-hub/"><strong>kayke-hub</strong></a> — cartão digital bilíngue, com QR Code, projetos e a jornada de estudos. Estático, acessível e no ar.
+<a href="https://kayke-dados.github.io/kayke-hub/"><strong>kayke-hub</strong></a> — cartão digital bilíngue, com QR Code, projetos e a jornada de estudos. Estático, acessível e no ar. <a href="https://github.com/kayke-dados/kayke-hub">código</a>.
 
 </div>
 

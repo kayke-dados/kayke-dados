@@ -15,6 +15,12 @@
 
 </div>
 
+<div align="center">
+
+<a href="#sobre-mim">sobre mim</a> · <a href="#destaque">destaque</a> · <a href="#diário">diário</a> · <a href="#tecnologias">tecnologias</a> · <a href="#projetos">projetos</a> · <a href="#github-stats">stats</a> · <a href="#snake-contribution">snake</a> · <a href="#vamos-conversar">conversar</a>
+
+</div>
+
 ---
 
 ## sobre mim
@@ -22,6 +28,8 @@
 Estudando para me tornar **Analista de Dados** — **Python** na mão, base de T.I. e o pacote Office na bagagem, um dia por vez. Este perfil é o meu diário de bordo, não uma vitrine.
 
 A base que já carrego: **noções básicas de T.I.** e o **pacote Office** completo em nível iniciante — planilhas, documentos e apresentações fazem parte do meu dia a dia.
+
+O aprendizado do momento: **Python**, do zero — sem atalhos. A trilha completa está no [python-journey](https://github.com/kayke-dados/Python-Journey).
 
 O que você encontra por aqui hoje:
 
@@ -41,13 +49,21 @@ O que você encontra por aqui hoje:
 
 *portfólio do aprendizado de Python — do primeiro `print()` às funções próprias*
 
-<img src="https://img.shields.io/badge/85%20exerc%C3%ADcios-resolvidos-0d0d0d?style=flat-square" alt="exercicios"/>
+<img src="https://img.shields.io/github/last-commit/kayke-dados/Python-Journey?style=flat-square&label=%C3%BAltimo%20commit&cacheSeconds=300" alt="último exercício publicado"/>
 &nbsp;
-<img src="https://img.shields.io/badge/7%20cap%C3%ADtulos-de%20progress%C3%A3o-0d0d0d?style=flat-square" alt="capitulos"/>
-&nbsp;
-<img src="https://img.shields.io/badge/no%20ar-a78bfa?style=flat-square&logo=dot&logoColor=0d0d0d" alt="no ar"/>
+<img src="https://img.shields.io/github/commit-activity/w/kayke-dados/Python-Journey?style=flat-square&cacheSeconds=300&label=commits%20na%20semana" alt="commits no python-journey"/>
 
 </div>
+
+| capítulo | estudos | estado |
+|:---|:---:|:---|
+| 01 — fundamentos | 12 | concluída |
+| 02 — condições | 16 | concluída |
+| 03 — laços e lógica | 25 | concluída |
+| 04 — listas e tuplas | 18 | concluída |
+| 05 — dicionários | 5 | concluída |
+| 06 — funções | 10 | `ex105` pendente |
+| 07 — próximos | — | espaço reservado |
 
 > Cada pasta é uma etapa da trilha; cada arquivo, um conceito explicado. Base: curso do [Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
 

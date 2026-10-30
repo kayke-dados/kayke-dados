@@ -17,11 +17,11 @@
 
 ## sobre mim
 
-Sou **Kayke**, estudando para me tornar **Analista de Dados**.
+Estudando para me tornar **Analista de Dados** — **Python** na mão, base de T.I. e o pacote Office na bagagem, um dia por vez. Este perfil é o meu diário de bordo, não uma vitrine.
 
 A base que já carrego: **noções básicas de T.I.** e o **pacote Office** completo em nível iniciante — planilhas, documentos e apresentações fazem parte do meu dia a dia.
 
-O aprendizado do momento: **Python**, do zero — sem atalhos, um passo de cada vez. Este perfil é o meu diário de bordo, não uma vitrine.
+O aprendizado do momento: **Python**, do zero — sem atalhos, um passo de cada vez.
 
 O que você encontra por aqui hoje:
 
@@ -30,6 +30,10 @@ O que você encontra por aqui hoje:
 - Evolução lenta, mas constante
 
 > Consistência > intensidade.
+
+## diário
+
+- `2026-10-30` — perfil no ar; foco: python, do zero.
 
 ## tecnologias
 

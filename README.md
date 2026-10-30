@@ -15,13 +15,13 @@
 
 <div align="center">
 
-<a href="#sobre-mim">sobre mim</a> · <a href="#destaque">destaque</a> · <a href="#cartão-digital">cartão digital</a> · <a href="#diário">diário</a> · <a href="#tecnologias">tecnologias</a> · <a href="#projetos">projetos</a> · <a href="#github-stats">stats</a> · <a href="#snake-contribution">snake</a> · <a href="#vamos-conversar">conversar</a>
+<a href="#sobre-mim">Sobre mim</a> · <a href="#destaque">Destaque</a> · <a href="#cartão-digital">Cartão digital</a> · <a href="#diário">Diário</a> · <a href="#tecnologias">Tecnologias</a> · <a href="#projetos">Projetos</a> · <a href="#github-stats">Stats</a> · <a href="#snake-contribution">Snake</a> · <a href="#vamos-conversar">Conversar</a>
 
 </div>
 
 ---
 
-## sobre mim
+## Sobre mim
 
 Estudando para me tornar **Analista de Dados** — **Python** como única linguagem de programação e o pacote Office na bagagem, um dia por vez. Este perfil é um diário de bordo, não uma vitrine.
 
@@ -31,7 +31,7 @@ Uso o **pacote Office** em nível iniciante — planilhas, documentos e apresent
 
 ---
 
-## destaque
+## Destaque
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Uso o **pacote Office** em nível iniciante — planilhas, documentos e apresent
 
 ---
 
-## cartão digital
+## Cartão digital
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Uso o **pacote Office** em nível iniciante — planilhas, documentos e apresent
 
 ---
 
-## diário
+## Diário
 
 - `2026-10-30` — **kayke-hub** reformulado (v4, editorial ametista) e no ar.
 - `2026-10-30` — perfil no ar; foco: python, do zero.
@@ -91,7 +91,7 @@ Uso o **pacote Office** em nível iniciante — planilhas, documentos e apresent
 
 ---
 
-## tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Uso o **pacote Office** em nível iniciante — planilhas, documentos e apresent
 
 ---
 
-## projetos
+## Projetos
 
 | projeto | foco | status |
 |:---|:---|:---:|
@@ -124,7 +124,7 @@ Uso o **pacote Office** em nível iniciante — planilhas, documentos e apresent
 
 ---
 
-## github stats
+## GitHub stats
 
 <div align="center">
 
@@ -138,7 +138,7 @@ Uso o **pacote Office** em nível iniciante — planilhas, documentos e apresent
 
 ---
 
-## snake contribution
+## Snake contribution
 
 <div align="center">
 
@@ -154,7 +154,7 @@ Uso o **pacote Office** em nível iniciante — planilhas, documentos e apresent
 
 ---
 
-## vamos conversar
+## Vamos conversar
 
 <div align="center">
 

@@ -16,10 +16,10 @@
   <circle cx="1064" cy="113" r="4.5" fill="#a78bfa" opacity="0.0"/>
   <circle cx="1120" cy="86"  r="6"   fill="#ece6fb" stroke="#8b5cf6" stroke-width="3"/>
 
-  <text x="64" y="118"
+  <text x="64" y="124"
         font-family="Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif"
-        font-size="64" font-weight="700" letter-spacing="0.5" fill="#ece6fb">Kayke</text>
-  <text x="66" y="158"
+        font-size="82" font-weight="700" letter-spacing="-1.4" fill="#ece6fb">Kayke</text>
+  <text x="66" y="162"
         font-family="Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif"
-        font-size="23" font-style="italic" fill="#a78bfa" letter-spacing="1.1">analista de dados · em construção</text>
+        font-size="24" font-style="italic" fill="#a78bfa" letter-spacing="0.8">analista de dados · em construção</text>
 </svg>

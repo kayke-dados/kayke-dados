@@ -9,7 +9,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=70&lines=Analista+de+Dados+%7C+em+forma%C3%A7%C3%A3o;procurando+padr%C3%B5es+nos+dados;um+passo+de+cada+vez"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=70&lines=Analista+de+Dados+%7C+em+forma%C3%A7%C3%A3o;procurando+padr%C3%B5es+nos+dados;um+passo+de+cada+vez;85+exerc%C3%ADcios+escritos+no+python-journey"
   alt="typing animation"
 />
 
@@ -65,7 +65,13 @@ O que você encontra por aqui hoje:
 | 06 — funções | 10 | `ex105` pendente |
 | 07 — próximos | — | espaço reservado |
 
-> Cada pasta é uma etapa da trilha; cada arquivo, um conceito explicado. Base: curso do [Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
+> Cada pasta é uma etapa da trilha; cada arquivo, um conceito explicado. Base: curso do [Curso em Vídeo](https://www.youtube.com/@CursoemVideo). 
+
+<div align="center">
+
+↳ <a href="https://github.com/kayke-dados/Python-Journey/tree/main/01-fundamentos">abrir o capítulo 01 — fundamentos</a>
+
+</div>
 
 ---
 
@@ -153,6 +159,10 @@ O que você encontra por aqui hoje:
 &nbsp;
 <a href="https://github.com/kayke-dados" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=a78bfa" alt="GitHub kayke-dados"/>
+</a>
+&nbsp;
+<a href="mailto:kayke0812@proton.me" target="_blank">
+  <img src="https://img.shields.io/badge/kayke0812@proton.me-0d0d0d?style=flat-square&logo=protonmail&logoColor=a78bfa" alt="Email kayke0812@proton.me"/>
 </a>
 
 </div>

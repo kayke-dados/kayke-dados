@@ -19,12 +19,14 @@
 
 Sou **Kayke**, estudando para me tornar **Analista de Dados**.
 
-Ainda estou no começo da jornada — aprendendo **Python** do jeito mais honesto possível: um passo de cada vez, praticando todos os dias e errando em voz alta. Este perfil é o meu diário de bordo, não uma vitrine.
+A base que já carrego: **noções básicas de T.I.** e o **pacote Office** completo em nível iniciante — planilhas, documentos e apresentações fazem parte do meu dia a dia.
+
+O aprendizado do momento: **Python**, do zero — sem atalhos, um passo de cada vez. Este perfil é o meu diário de bordo, não uma vitrine.
 
 O que você encontra por aqui hoje:
 
 - Estudos registrados, repositórios de prática e testes que não dão certo (e os que dão)
-- Projeto em Python **a caminho** — fechado com calma antes de publicado
+- Projetos **a caminho** — fechados com calma antes de publicados
 - Evolução lenta, mas constante
 
 > Consistência > intensidade.
@@ -36,10 +38,14 @@ O que você encontra por aqui hoje:
 <a href="https://docs.python.org/3/" target="_blank">
   <img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=a78bfa" alt="Python"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Pacote%20Office-1a1526?style=flat-square" alt="Pacote Office — iniciante"/>
+&nbsp;
+<img src="https://img.shields.io/badge/b%C3%A1sico%20de%20T.I.-1a1526?style=flat-square" alt="básico de T.I."/>
 
 </div>
 
-*Uma linguagem de cada vez, por enquanto: Python, do zero e sem pressa.
+*Python é o foco atual — Office e T.I. são a base de partida, não o destino.*
 
 ## projetos
 
@@ -53,6 +59,7 @@ O que você encontra por aqui hoje:
 |:---|:---|:---:|
 | portfólio de dados | a definir | <img src="https://img.shields.io/badge/planejamento-0d0d0d?style=flat-square&logo=clock&logoColor=a78bfa" alt="planejamento"/> |
 | projeto em Python | análise de dados | <img src="https://img.shields.io/badge/em%20breve-1a1526?style=flat-square&logo=hourglass&logoColor=8b5cf6" alt="em breve"/> |
+| painel de indicadores | planilha | <img src="https://img.shields.io/badge/planejamento-0d0d0d?style=flat-square&logo=clock&logoColor=a78bfa" alt="planejamento"/> |
 
 *O primeiro resultado real entra aqui, com link — sem card de vitrine.*
 

@@ -39,17 +39,19 @@ O que você encontra por aqui hoje:
 
 <div align="center">
 
-<a href="https://docs.python.org/3/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=a78bfa" alt="Python"/>
-</a>
+<img
+  src="https://skillicons.dev/icons?i=py,windows&theme=dark"
+  alt="Python (em aprendizado) e base de T.I. em Windows"
+/>
 &nbsp;
-<img src="https://img.shields.io/badge/Pacote%20Office-1a1526?style=flat-square" alt="Pacote Office — iniciante"/>
-&nbsp;
-<img src="https://img.shields.io/badge/b%C3%A1sico%20de%20T.I.-1a1526?style=flat-square" alt="básico de T.I."/>
+<img
+  src="https://raw.githubusercontent.com/kayke-dados/kayke-dados/main/office.svg"
+  alt="Pacote Office — Word, Excel e PowerPoint, nível iniciante"
+/>
 
 </div>
 
-*Python é o foco atual — Office e T.I. são a base de partida, não o destino.*
+*O foco do momento é Python — Office e a base de T.I. sustentam o caminho, no ritmo de iniciante.*
 
 ## projetos
 

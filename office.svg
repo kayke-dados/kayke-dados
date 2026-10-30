@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 48" width="156" height="48" role="img" aria-label="Pacote Office: Word, Excel e PowerPoint">
+  <g font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <rect x="0" y="2" width="44" height="44" rx="10" fill="#2b579a"/>
+    <text x="22" y="32" font-size="24" fill="#ffffff">W</text>
+    <rect x="56" y="2" width="44" height="44" rx="10" fill="#217346"/>
+    <text x="78" y="32" font-size="24" fill="#ffffff">X</text>
+    <rect x="112" y="2" width="44" height="44" rx="10" fill="#d24726"/>
+    <text x="134" y="32" font-size="24" fill="#ffffff">P</text>
+  </g>
+</svg>

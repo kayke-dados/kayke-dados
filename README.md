@@ -23,9 +23,9 @@
 
 ## sobre mim
 
-Estudando para me tornar **Analista de Dados** — **Python** na mão, base de TI e o pacote Office na bagagem, um dia por vez. Este perfil é um diário de bordo, não uma vitrine.
+Estudando para me tornar **Analista de Dados** — **Python** como única linguagem de programação e o pacote Office na bagagem, um dia por vez. Este perfil é um diário de bordo, não uma vitrine.
 
-A base que já carrego: **noções básicas de TI** e o **pacote Office** em nível iniciante — planilhas, documentos e apresentações fazem parte do meu dia a dia. O aprendizado do momento é **Python**, do zero, sem atalhos; a trilha completa está no [python-journey](https://github.com/kayke-dados/Python-Journey).
+Uso o **pacote Office** em nível iniciante — planilhas, documentos e apresentações fazem parte do meu dia a dia. A linguagem que estudo é **Python**, do zero, sem atalhos; a trilha completa está no [python-journey](https://github.com/kayke-dados/Python-Journey).
 
 > Consistência > intensidade.
 
@@ -96,8 +96,8 @@ A base que já carrego: **noções básicas de TI** e o **pacote Office** em ní
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=py,windows&theme=dark"
-  alt="Python (em aprendizado) e Windows"
+  src="https://skillicons.dev/icons?i=py&theme=dark"
+  alt="Python (em aprendizado)"
 />
 &nbsp;
 <img
@@ -107,7 +107,7 @@ A base que já carrego: **noções básicas de TI** e o **pacote Office** em ní
 
 </div>
 
-*Python é o foco; Windows e Office sustentam o caminho, no ritmo de iniciante.*
+*Python é a única linguagem de programação que estudo; o Office faz parte do dia a dia, em nível iniciante. Windows é só o meu ambiente.*
 
 ---
 

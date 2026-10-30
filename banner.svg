@@ -1,20 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Kayke, analista de dados em construção">
   <rect width="1200" height="240" fill="#0d0d0d"/>
 
-  <path d="M0 186 C 260 128, 480 226, 720 168 C 900 126, 1040 190, 1200 128 L 1200 240 L 0 240 Z"
-        fill="#a78bfa" opacity="0.28"/>
-  <path d="M0 214 C 240 168, 520 244, 760 198 C 940 164, 1060 214, 1200 168 L 1200 240 L 0 240 Z"
-        fill="#8b5cf6" opacity="0.60"/>
+  <!-- ondas: campo de cor da identidade -->
+  <path d="M0 188 C 260 132, 480 228, 720 170 C 900 128, 1040 192, 1200 130 L 1200 240 L 0 240 Z"
+        fill="#a78bfa" opacity="0.22"/>
+  <path d="M0 216 C 240 172, 520 246, 760 200 C 940 166, 1060 216, 1200 170 L 1200 240 L 0 240 Z"
+        fill="#8b5cf6" opacity="0.55"/>
 
+  <!-- motivo-gráfico: a trilha dos dados -->
+  <!-- linha-base pontilhada -->
+  <path d="M940 178 L 1140 178" fill="none" stroke="#3f3244" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+  <!-- tendência passada (tracejada) -->
+  <path d="M940 168 C 985 162, 1010 150, 1042 148" fill="none" stroke="#8b5cf6" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="2 6" opacity="0.8"/>
+  <!-- linha atual -->
   <g fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round">
-    <path d="M952 152 C 1000 138, 1024 130, 1062 114 C 1086 104, 1100 96, 1120 86"/>
-    <path d="M952 152 C 1000 138, 1024 130, 1062 114 C 1086 104, 1100 96, 1120 86 L 1120 176 L 952 176 Z"
-          stroke="none" fill="#a78bfa" opacity="0.12"/>
+    <path d="M940 172 C 990 156, 1018 138, 1062 114 C 1088 100, 1104 94, 1124 84"/>
   </g>
-  <circle cx="952"  cy="152" r="4.5" fill="#a78bfa"/>
+  <circle cx="940"  cy="172" r="4.5" fill="#a78bfa"/>
   <circle cx="1062" cy="114" r="4.5" fill="#a78bfa"/>
-  <circle cx="1064" cy="113" r="4.5" fill="#a78bfa" opacity="0.0"/>
-  <circle cx="1120" cy="86"  r="6"   fill="#ece6fb" stroke="#8b5cf6" stroke-width="3"/>
+  <circle cx="1124" cy="84"  r="6"   fill="#ece6fb" stroke="#8b5cf6" stroke-width="3"/>
+  <!-- pulso no ponto mais alto -->
+  <circle cx="1124" cy="84" r="11" fill="none" stroke="#a78bfa" stroke-width="1.5" opacity="0.55"/>
 
   <text x="64" y="124"
         font-family="Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif"

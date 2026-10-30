@@ -121,11 +121,11 @@ O que você encontra por aqui hoje:
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=kayke-dados&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=8b5cf6&text_color=e0d7ff&border_radius=10&custom_title=Kayke%20%E2%80%A2%20GitHub%20Stats&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs" alt="GitHub stats"/>
 <!-- depois do primeiro star/issue/PR, remova o parâmetro hide= da linha acima -->
-<img width="49%" src="https://streak-stats.demolab.com?user=kayke-dados&hide_border=true&background=0d0d0d&borderRadius=10&ring=a78bfa&fire=8b5cf6&currStreakNum=e0d7ff&sideNums=e0d7ff&currStreakLabel=a78bfa&dates=7b6f99" alt="GitHub streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=kayke-dados&hide_border=true&background=0d0d0d&borderRadius=10&ring=a78bfa&fire=8b5cf6&currStreakNum=e0d7ff&sideNums=e0d7ff&currStreakLabel=a78bfa&sideLabels=e0d7ff&dates=7b6f99" alt="GitHub streak"/>
 
 <img width="100%" src="https://github-act-graph.rodriaum.com/graph?username=kayke-dados&bg_color=0d0d0d&color=e0d7ff&line=8b5cf6&point=a78bfa&area=true&area_color=8b5cf6&hide_border=true&border_radius=10&custom_title=Contribui%C3%A7%C3%B5es%20%E2%80%94%20%C3%BAltimos%2031%20dias" alt="Activity graph"/>
 
-<img width="100%" src="https://github-trophies.devomb.com/?username=kayke-dados&theme=onedark&no-frame=true&column=4&margin-w=5" alt="GitHub trophies"/>
+<img width="100%" src="https://github-trophies.devomb.com/?username=kayke-dados&theme=discord&no-frame=true&column=4&margin-w=5" alt="GitHub trophies"/>
 
 <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kayke-dados&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e0d7ff&border_radius=10&custom_title=Linguagens%20mais%20usadas" alt="Top languages"/>
 

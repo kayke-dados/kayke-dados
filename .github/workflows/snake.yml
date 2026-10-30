@@ -19,7 +19,7 @@ jobs:
           github_user_name: kayke-dados
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=dracula
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

@@ -9,13 +9,13 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=70&lines=Analista+de+Dados+%7C+em+forma%C3%A7%C3%A3o;Python+%E2%80%A2+Git+%E2%80%A2+Excel;Aprendendo+um+passo+de+cada+vez"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=70&lines=Analista+de+Dados+%7C+em+forma%C3%A7%C3%A3o;procurando+padr%C3%B5es+nos+dados;um+passo+de+cada+vez"
   alt="typing animation"
 />
 
 </div>
 
-## Sobre mim
+## sobre mim
 
 Sou **Kayke**, estudando para me tornar **Analista de Dados**.
 
@@ -29,7 +29,7 @@ O que você encontra por aqui hoje:
 
 > Consistência > intensidade.
 
-## Tecnologias
+## tecnologias
 
 <div align="center">
 
@@ -45,45 +45,41 @@ O que você encontra por aqui hoje:
   <img src="https://img.shields.io/badge/Excel-0d0d0d?style=flat-square&logo=microsoftexcel&logoColor=a78bfa" alt="Excel"/>
 </a>
 
-<div align="left">
+</div>
 
 *Tudo ainda em nível iniciante — e sem vergonha disso. O período de aprendizado conta tanto quanto os diplomas.*
 
-</div>
-
-</div>
-
-## Projetos
+## projetos
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/status%E3%80%80EM%E3%80%80CONSTRU%C3%87%C3%83O-8b5cf6?style=flat-square&logo=clock&logoColor=0d0d0d" alt="status em construção"/>
+<img src="https://img.shields.io/badge/EM%E3%80%80CONSTRU%C3%87%C3%83O-8b5cf6?style=flat-square&logo=clock&logoColor=0d0d0d" alt="status em construção"/>
 
 </div>
 
-| projeto | foco | nível |
+| projeto | foco | status |
 |:---|:---|:---:|
-| portfólio de dados | a definir | `planejamento` |
-| projeto em Python | análise de dados | `iniciante` |
-| dashboard | indicadores simples | `iniciante` |
+| portfólio de dados | a definir | <img src="https://img.shields.io/badge/planejamento-0d0d0d?style=flat-square&logo=clock&logoColor=a78bfa" alt="planejamento"/> |
+| projeto em Python | análise de dados | <img src="https://img.shields.io/badge/em%20breve-1a1526?style=flat-square&logo=hourglass&logoColor=8b5cf6" alt="em breve"/> |
+| dashboard | indicadores simples | <img src="https://img.shields.io/badge/em%20breve-1a1526?style=flat-square&logo=hourglass&logoColor=8b5cf6" alt="em breve"/> |
 
-*Sem cards de vitrine vazios: o primeiro projeto finalizado entra aqui com link real.*
+*O primeiro resultado real entra aqui, com link — sem card de vitrine.*
 
-## GitHub Stats
+## github stats
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=kayke-dados&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=8b5cf6&text_color=e0d7ff&border_radius=10" alt="GitHub stats"/>
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kayke-dados&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e0d7ff&border_radius=10" alt="Top languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=kayke-dados&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=8b5cf6&text_color=e0d7ff&border_radius=10&custom_title=Kayke%20%E2%80%A2%20GitHub%20Stats&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kayke-dados&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e0d7ff&border_radius=10&custom_title=Linguagens%20mais%20usadas" alt="Top languages"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=kayke-dados&hide_border=true&background=0d0d0d&borderRadius=10&ring=a78bfa&fire=8b5cf6&currStreakNum=e0d7ff&sideNums=e0d7ff&currStreakLabel=a78bfa&dates=7b6f99" alt="GitHub streak"/>
-<img width="49%" src="https://github-act-graph.rodriaum.com/graph?username=kayke-dados&bg_color=0d0d0d&color=e0d7ff&line=8b5cf6&point=a78bfa&area=true&area_color=8b5cf6&hide_border=true&border_radius=10" alt="Activity graph"/>
+<img width="49%" src="https://github-act-graph.rodriaum.com/graph?username=kayke-dados&bg_color=0d0d0d&color=e0d7ff&line=8b5cf6&point=a78bfa&area=true&area_color=8b5cf6&hide_border=true&border_radius=10&custom_title=Contribui%C3%A7%C3%B5es%20%E2%80%94%20%C3%BAltimos%2031%20dias" alt="Activity graph"/>
 
-<img width="100%" src="https://github-trophies.devomb.com/?username=kayke-dados&theme=onedark&no-frame=true&column=7&margin-w=5" alt="GitHub trophies"/>
+<img width="100%" src="https://github-trophies.devomb.com/?username=kayke-dados&theme=onedark&no-frame=true&column=8&margin-w=5" alt="GitHub trophies"/>
 
 </div>
 
-## Snake Contribution
+## snake contribution
 
 <div align="center">
 
@@ -95,7 +91,7 @@ O que você encontra por aqui hoje:
 
 </div>
 
-## Vamos conversar
+## vamos conversar
 
 <div align="center">
 

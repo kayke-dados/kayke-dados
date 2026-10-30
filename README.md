@@ -4,8 +4,8 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:a78bfa&height=230&section=header&text=Kayke&fontSize=58&fontColor=0d0d0d&fontAlignY=34&desc=Analista de Dados — em construção&descSize=16&descColor=0d0d0d&descAlignY=52&animation=fadeIn"
-  alt="banner Kayke"
+  src="https://raw.githubusercontent.com/kayke-dados/kayke-dados/main/banner.svg"
+  alt="banner Kayke — analista de dados, em construção"
 />
 
 <img

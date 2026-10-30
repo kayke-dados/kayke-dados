@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Kayke, analista de dados em construção">
+  <rect width="1200" height="240" fill="#0d0d0d"/>
+
+  <path d="M0 186 C 260 128, 480 226, 720 168 C 900 126, 1040 190, 1200 128 L 1200 240 L 0 240 Z"
+        fill="#a78bfa" opacity="0.28"/>
+  <path d="M0 214 C 240 168, 520 244, 760 198 C 940 164, 1060 214, 1200 168 L 1200 240 L 0 240 Z"
+        fill="#8b5cf6" opacity="0.60"/>
+
+  <g fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round">
+    <path d="M952 152 C 1000 138, 1024 130, 1062 114 C 1086 104, 1100 96, 1120 86"/>
+    <path d="M952 152 C 1000 138, 1024 130, 1062 114 C 1086 104, 1100 96, 1120 86 L 1120 176 L 952 176 Z"
+          stroke="none" fill="#a78bfa" opacity="0.12"/>
+  </g>
+  <circle cx="952"  cy="152" r="4.5" fill="#a78bfa"/>
+  <circle cx="1062" cy="114" r="4.5" fill="#a78bfa"/>
+  <circle cx="1064" cy="113" r="4.5" fill="#a78bfa" opacity="0.0"/>
+  <circle cx="1120" cy="86"  r="6"   fill="#ece6fb" stroke="#8b5cf6" stroke-width="3"/>
+
+  <text x="64" y="118"
+        font-family="Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="64" font-weight="700" letter-spacing="0.5" fill="#ece6fb">Kayke</text>
+  <text x="66" y="158"
+        font-family="Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="23" fill="#a78bfa" letter-spacing="1.2">analista de dados · em construção</text>
+</svg>

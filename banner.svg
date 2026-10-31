@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Kayke — analista de dados em formação">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Kayke — Python e Análise de Dados, estudante em evolução">
   <rect width="1200" height="340" fill="#141414"/>
   <rect x="64" y="35" width="8" height="8" fill="#9B8AC4"/>
-  <text x="84" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="4" fill="#A6A29C">ANALISTA DE DADOS · EM FORMAÇÃO</text>
-  <text x="1136" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#9B8AC4">PYTHON</text>
+  <text x="84" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="4" fill="#A6A29C">PYTHON E ANÁLISE DE DADOS · ESTUDANTE EM EVOLUÇÃO</text>
+  <text x="1136" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2" fill="#9B8AC4">PORTFÓLIO</text>
   <text x="60" y="162" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="94" font-weight="700" letter-spacing="-3" fill="#F5F3EF">Kayke</text>
   <rect x="64" y="186" width="64" height="3" fill="#9B8AC4"/>
-  <text x="64" y="228" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#A6A29C">Python do zero, com cada passo documentado.</text>
-  <text x="64" y="288" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#9B8AC4">python-journey · 85 de 86 exercícios</text>
-  <text x="64" y="312" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#A6A29C">kayke-dados.github.io/kayke-hub</text>
+  <text x="64" y="228" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#A6A29C">Python do zero, com cada passo documentado.</text>
+  <text x="64" y="288" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#9B8AC4">python-journey · 85 de 86 exercícios</text>
+  <text x="64" y="312" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#A6A29C">kayke-dados.github.io/kayke-hub</text>
   <line x1="800" y1="90" x2="800" y2="270" stroke="#343434"/>
   <g transform="translate(846,110)">
     <line x1="-8" y1="130" x2="286" y2="130" stroke="#343434"/>

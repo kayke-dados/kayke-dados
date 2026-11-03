@@ -1,47 +1,50 @@
-![Python — Curso em Vídeo: 87 exercícios em 6 capítulos](banner.svg)
+![Kayke — aprendendo dados, um exercício de cada vez](banner.svg)
 
-# Python — Curso em Vídeo
+![Python (aprendendo) · Git e GitHub (básico) · Excel (básico)](assets/badges.svg)
 
-Meus exercícios do [curso de Python do Curso em Vídeo](https://www.youtube.com/@CursoemVideo), de Gustavo Guanabara, do primeiro `print()` às minhas próprias funções.
+Sou autodidata e estou construindo, no meu ritmo, a base para trabalhar com **Análise de Dados**.
 
-![Python 3.x · Licença MIT](assets/badges.svg)
+Ainda não tenho experiência profissional na área. Tudo o que está aqui é estudo, com código e histórico de commits à vista.
 
-Este repositório é um **registro de estudo**, não um projeto. Cada arquivo é um exercício como eu o escrevi na hora, inclusive quando ainda há o que melhorar. Meus projetos de análise ficam em outros repositórios, listados em [kayke-space.vercel.app](https://kayke-space.vercel.app).
+## Agora
 
-## Conteúdo
+| | |
+|---|---|
+| **Estudando** | Python, pelo curso do [Curso em Vídeo](https://www.youtube.com/@CursoemVideo) |
+| **Próximo passo** | SQL, depois pandas |
+| **Objetivo** | Minha primeira oportunidade em Análise de Dados |
 
-Reorganizei o curso na ordem em que aprendi, em vez de seguir a divisão original.
+## Como eu estudo
 
-| Capítulo | Exercícios | O que pratiquei | Guia |
-|---|---:|---|---|
-| [01 — Fundamentos](01-fundamentos) | 12 | `print()`, `input()`, variáveis, tipos, operadores, f-strings, `import` | [abrir](docs/capitulos/01-fundamentos.md) |
-| [02 — Condições](02-condicoes) | 16 | `if`/`elif`/`else`, operadores lógicos, validação, `random` | [abrir](docs/capitulos/02-condicoes.md) |
-| [03 — Laços e lógica](03-lacos-e-logica) | 25 | `for`, `while`, `range()`, `break`, contadores, acumuladores, menus | [abrir](docs/capitulos/03-lacos-e-logica.md) |
-| [04 — Listas e tuplas](04-listas-e-tuplas) | 18 | índices, fatiamento, ordenação, `append`/`insert`/`pop`, matrizes | [abrir](docs/capitulos/04-listas-e-tuplas.md) |
-| [05 — Dicionários](05-dicionarios) | 5 | chave/valor, listas como valores, `sorted()`, `itemgetter` | [abrir](docs/capitulos/05-dicionarios.md) |
-| [06 — Funções](06-funcoes) | 11 | parâmetros, `return`, valores padrão, `*args`, docstrings, `help()` | [abrir](docs/capitulos/06-funcoes.md) |
+1. Faço o curso.
+2. Resolvo os exercícios e registro tudo no GitHub, na ordem em que aprendi.
+3. Aplico em um mini projeto antes de começar o próximo curso.
 
-Total: **87 exercícios** em 6 capítulos. A contagem é conferida nos arquivos (última conferência: 01/11/2026).
+Até aqui: **87 exercícios** em **6 capítulos** de Python.
 
-## Como executar
+## Trilha
 
-Na raiz do repositório:
+Cada etapa só é marcada quando existe um repositório ou projeto que prove.
 
-```bash
-python3 "02-condicoes/13 - Adivinha o Número.py"
-```
+- [x] **Fundamentos de Python:** 87 exercícios em 6 capítulos · [repositório](https://github.com/kayke-dados/Python-Curso-em-Video)
+- [ ] **SQL:** [Curso de SQL com MySQL](https://www.youtube.com/playlist?list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk), do Otávio Miranda
+- [ ] **Python para análise de dados:** [NumPy e pandas](https://www.youtube.com/playlist?list=PL3Fmwz_E1hXRWxIkP843DiDf0ZeqgftTy), da Geração Analítica
+- [ ] **Power BI:** [curso do básico ao profissional](https://www.youtube.com/playlist?list=PLFKhhNd35zq90tdc3PYpx4IA-SoxSNlmN), da Prime Cursos do Brasil
+- [ ] **Git e GitHub** (reforço): [curso do Tiago Matos](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+- [ ] **Primeira análise completa publicada**, com pergunta, gráficos e conclusão
 
-A maioria usa `input()`, então espera digitação no terminal. Só o exercício `01-fundamentos/12 - Tocar MP3 com Pygame.py` precisa de dependência externa (`pip install pygame`). Os outros usam apenas a biblioteca padrão.
+Depois dos primeiros projetos: estatística e, mais à frente, machine learning.
 
-## Limites conhecidos
+## Repositórios
 
-- O exercício 24 de laços lista os números de 1 até N, mas ainda não verifica quais são primos. Deixei como foi escrito.
-- Os exercícios acompanham as aulas e não passaram por revisão de estilo ou testes mais profundos.
+**[Python-Curso-em-Video](https://github.com/kayke-dados/Python-Curso-em-Video)** · estudo
+Meus 87 exercícios de Python, organizados na ordem em que aprendi.
 
-## Próximos passos
+**[Kayke Space](https://kayke-space.vercel.app)** · site pessoal
+Meu portfólio, feito com Next.js, TypeScript e Supabase. O código foi desenvolvido com apoio de IA, a partir de decisões e conteúdo meus.
 
-Tratamento de exceções, arquivos, orientação a objetos, ambientes virtuais, SQL e análise de dados. Nada disso conta como concluído até existir aqui. O plano está em [docs/ROADMAP.md](docs/ROADMAP.md) e o histórico em [docs/STUDY-LOG.md](docs/STUDY-LOG.md).
+## Vamos conversar
 
----
+Aceito conversas sobre dados e Python, e feedback sobre meus projetos.
 
-*A organização da documentação contou com apoio de IA, a partir dos exercícios reais do repositório. O código dos exercícios é o registro do meu aprendizado. Licença MIT.*
+[Portfólio](https://kayke-space.vercel.app) · [E-mail](mailto:kayke0812@proton.me) · [Instagram](https://www.instagram.com/kayke.dados/)
